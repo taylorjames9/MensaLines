@@ -5,7 +5,7 @@ public class KeyBoardController : MonoBehaviour {
 
 
 	float maxSpeed = 20.0f;
-	float accel = 4.0f;
+	float accel = 14.0f;
 
 	// Use this for initialization
 	void Start () {
